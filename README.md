@@ -5,7 +5,8 @@ In UML we have : <br>
 2. Sequence Diagram <br>
 3. Object Diagram <br>
 4. State diagram <br>
-
+---------------------------
+//Priority to study
 
 Must Know <br>
 factory <br>
