@@ -29,4 +29,4 @@ Builder <br>
 flyweight <br>
 
 
-![img.png](img.png)
+![Observer_Design_pattern](images/img.png)
