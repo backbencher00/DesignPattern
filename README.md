@@ -1,32 +1,45 @@
-//design patterns
-Always prefer UML diagram for design pattern : <br>
-In UML we have : <br>
-1. Class Diagram <br>
-2. Sequence Diagram <br>
-3. Object Diagram <br>
-4. State diagram <br>
----------------------------
-//Priority to study
+## 📘 Design Patterns
 
-Must Know <br>
-factory <br>
-strategy <br>
-singleton <br>
-adaptor <br>
------------------------------------------------------------------------------<br>
-for last minute revision and have interview solely with desgn pattern <br>
-decorator :
-BasicCoffee -> Coffee
-Milk Decorator -> Coffee
+Always prefer UML diagrams for design patterns.
 
+### UML Types
+1. Class Diagram
+2. Sequence Diagram
+3. Object Diagram
+4. State Diagram
 
-<br>
-observer <br>
------------------------------------------------------------------------<br>
-if you still have time and you are 100% sure that he will ask definetely from design patter <br>
-prototype and registry <br>
-Builder <br>
-flyweight <br>
+---
 
+## 🚀 Study Priority
 
-![Observer_Design_pattern](images/img.png)
+### 🔥 Must Know
+- Factory
+- Strategy
+- Singleton
+- Adapter
+
+---
+
+### ⚡ Last Minute Revision
+**Decorator Pattern**
+- BasicCoffee → Coffee
+- MilkDecorator → Coffee
+
+**Observer Pattern**
+
+---
+
+### 🧠 If Time Permits
+- Prototype & Registry
+- Builder
+- Flyweight
+
+---
+
+## 📊 Observer Design Pattern UML
+
+<p align="center">
+  <img src="images/observer_design_pattern.png" 
+       alt="Observer Design Pattern" 
+       width="600"/>
+</p>
